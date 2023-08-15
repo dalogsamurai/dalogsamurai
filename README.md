@@ -1,15 +1,14 @@
-<!-- ### Hi there 👋 -->
-
 <h1>Oh, hello there!<br/>I'm <a target='_blank' href='https://landing-31231233.web.app/'>thelogsamurai</a></h1>
 <h2>Frontend developer</h2>
-[![trophy](https://github-profile-trophy.vercel.app/?username=dalogsamurai)](https://github.com/ryo-ma/github-profile-trophy)
-<br/>
 <h3>Skills:</h3>
 <h3>Typescript</h3>
 <h3>Javascript</h3>
 <h3>SASS/CSS</h3>
 <h3>React</h3>
 <h3>Astro</h3>
+<br/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=dalogsamurai)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 Here are some ideas to get you started:
