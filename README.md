@@ -1,4 +1,4 @@
-<h1>Oh, hello there!<br/>I'm <a target='_blank' href='https://landing-31231233.web.app/'>thelogsamurai</a></h1>
+<h1>Oh, hello there!<br/>I'm <a target='_blank' href='#'>thelogsamurai</a></h1>
 <h2>Frontend developer</h2>
 <h3>Skills:</h3>
 
