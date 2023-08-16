@@ -1,12 +1,9 @@
 <h1>Oh, hello there!<br/>I'm <a target='_blank' href='https://landing-31231233.web.app/'>thelogsamurai</a></h1>
 <h2>Frontend developer</h2>
 <h3>Skills:</h3>
-<h3>Typescript</h3>
-<h3>Javascript</h3>
-<h3>SASS/CSS</h3>
-<h3>React</h3>
-<h3>Astro</h3>
-<br/>
+
+![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-blue?style=for-the-badge&logo=react&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white) ![SASS](https://img.shields.io/badge/sass-pink?style=for-the-badge&logo=sass&logoColor=white)
+![CSS](https://img.shields.io/badge/css-blue?style=for-the-badge&logo=css3&logoColor=white) ![Astro](https://img.shields.io/badge/astro-orange?style=for-the-badge&logo=astro&logoColor=white) ![Tailwind](https://img.shields.io/badge/tailwind-blue?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Telegram-bot](https://img.shields.io/badge/telegrambot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white) ![Playwright](https://img.shields.io/badge/playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Lighthouse](https://img.shields.io/badge/lighthouse-F44B21?style=for-the-badge&logo=lighthouse&logoColor=white) ![ApolloGQL](https://img.shields.io/badge/apollogql-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=dalogsamurai)](https://github.com/ryo-ma/github-profile-trophy)
 
